@@ -2,14 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/child/2020/12/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://milian456.gitee.io/contact/index.html</loc>
+    
+    <lastmod>2020-12-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://milian456.gitee.io/about/index.html</loc>
+    
+    <lastmod>2020-12-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://milian456.gitee.io/categories/index.html</loc>
     
     <lastmod>2020-12-06</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/child/2020/12/02/hello-world/</loc>
+    <loc>https://milian456.gitee.io/tags/index.html</loc>
+    
+    <lastmod>2020-12-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://milian456.gitee.io/2020/12/03/wo-de-di-yi-pian-bo-ke-wen-zhang/</loc>
+    
+    <lastmod>2020-12-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://milian456.gitee.io/2020/12/02/hello-world/</loc>
     
     <lastmod>2020-12-06</lastmod>
     
@@ -17,8 +45,8 @@
   
 
   <url>
-    <loc>http://example.com/child</loc>
-    <lastmod>2020-12-06</lastmod>
+    <loc>https://milian456.gitee.io/</loc>
+    <lastmod>2020-12-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
