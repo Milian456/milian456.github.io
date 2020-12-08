@@ -1,1 +1,9 @@
 /* Here is your custom css styles. */
+@font-face{
+    font-family: 'GenJyuuGothic-Normal';
+    src: url('../font/GenJyuuGothic-Normal.ttf');
+}
+
+.diyFont{
+    font-family: 'GenJyuuGothic-Normal';
+}
